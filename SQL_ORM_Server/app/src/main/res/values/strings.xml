@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SQL_ORM</string>
+    <string name="delete_record">delete_record</string>
+</resources>
